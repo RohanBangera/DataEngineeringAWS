@@ -1,4 +1,4 @@
-# DataEngineering using AWS
+# DataEngineering project using AWS
 
 End to end data engineering project on AWS
 
