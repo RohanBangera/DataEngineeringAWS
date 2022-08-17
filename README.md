@@ -14,3 +14,7 @@ Lastly used AWS Athena to query the analytical database.
 Data Cleansing Process
 
 ![Screenshot (285)](https://user-images.githubusercontent.com/97470708/185236862-7db4f070-7840-47c7-aee6-9c41e03da710.png)
+
+Glue Studio pipeline
+
+![Screenshot (287)](https://user-images.githubusercontent.com/97470708/185238407-179bc560-a446-4691-abd9-9f6af78c62e4.png)
